@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+From (Learn Web Development with Rails)[https://www.railstutorial.org/book/toy_app]
 
-Things you may want to cover:
+## Environment Setup
 
-* Ruby version
+Ruby 2.3.7 and Rails 5.2.0
 
-* System dependencies
+## Run Application
 
-* Configuration
+TBD
 
-* Database creation
+## Run Tests
 
-* Database initialization
+TBD
 
-* How to run the test suite
+## Deploy
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+TBD
