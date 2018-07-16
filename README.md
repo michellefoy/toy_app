@@ -19,6 +19,4 @@ TBD
 After having pushed changes to GitHub:
 * ```git push heroku```
 * ```heroku run rails db:migrate```
-* ```heroku open```
-
-Navigate to [https://toy-app333.herokuapp.com/](https://toy-app333.herokuapp.com/)
+* ```heroku open``` or navigate to [https://toy-app333.herokuapp.com/](https://toy-app333.herokuapp.com/)
