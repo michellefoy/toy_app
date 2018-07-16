@@ -8,7 +8,7 @@ Ruby 2.3.7 and Rails 5.2.0
 
 ## Run Application
 
-TBD
+```rails server```
 
 ## Run Tests
 
@@ -16,4 +16,9 @@ TBD
 
 ## Deploy
 
-TBD
+After having pushed changes to GitHub:
+* ```git push heroku```
+* ```heroku run rails db:migrate```
+* ```heroku open```
+
+Navigate to [https://toy-app333.herokuapp.com/](https://toy-app333.herokuapp.com/)
